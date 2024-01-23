@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Apoorva
 
-🚀 Tech Enthusiast | ☁️ Cloud Technology | 🌐 Systems Engineering | 💻 Full Stack Developer
+🚀 Tech Enthusiast | ☁️ Cloud Technology | 🌐 Systems Engineering | 💻 Backend Developer
 
 ### About Me
 
